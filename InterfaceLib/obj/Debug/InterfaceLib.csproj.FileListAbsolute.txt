@@ -1,0 +1,6 @@
+C:\Users\Andrey\source\repos\C#\InterfaceLib\bin\Debug\InterfaceLib.dll
+C:\Users\Andrey\source\repos\C#\InterfaceLib\bin\Debug\InterfaceLib.pdb
+C:\Users\Andrey\source\repos\C#\InterfaceLib\obj\Debug\InterfaceLib.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\C#\InterfaceLib\obj\Debug\InterfaceLib.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\C#\InterfaceLib\obj\Debug\InterfaceLib.dll
+C:\Users\Andrey\source\repos\C#\InterfaceLib\obj\Debug\InterfaceLib.pdb
